@@ -35,13 +35,13 @@ const crearPokemon = (pokemon) => {
     
     });
   
-    // let mmovement = document.createElement("label");
+   
+}
+
+ // let mmovement = document.createElement("label");
     // pokemon.moves.forEach(element => {
     //     mmovement = document.createElement("label");
     //     mmovement.setAttribute("class",  "movement");
     //     mmovement.textContent = element.move.name;
     //     div.appendChild(mmovement);
     // });
-
-}
-
